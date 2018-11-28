@@ -1,0 +1,56 @@
+g tpd
+cd c:\users\
+cd sacha
+cd sources
+cd "Inexto Suite\
+cd Inextrack\
+dir
+exit
+env
+exit
+g tpd
+cd sources
+dir
+env
+env inextrack
+env inextrack*
+env --help
+set
+set inextrack
+exit
+set-env
+env$
+env
+set-env inextrack
+set-env inextrack*
+set-env *inextrack*
+set-env
+get-env
+set inextrack
+exit
+get-env
+set inextrack
+cd c:\temp
+cd lnx
+dir
+type hello.sh
+wsl sha1sum  hello.sh
+wsl sha1sum --help
+notepad hello.cs
+type hello.cs
+wsl sha1sum *
+wsl sha1sum -c *
+wsl sha1sum * -b
+wsl sha1sum * -t
+wsl
+g tpd
+exot
+exit
+exit
+exit
+tracert http://dev-pmi-inextrack.westeurope.cloudapp.azure.com:6206/Administration
+exit
+tracert http://dev-pmi-inextrack.westeurope.cloudapp.azure.com:6206/Administration
+
+set inext
+exit
